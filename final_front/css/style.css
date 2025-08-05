@@ -1,0 +1,109 @@
+body{padding:0;}
+.header_main{width:100%; float:left; padding:10px 0 10px 0;height:600px;}
+.center{width:1170px; margin:0 auto;}
+.logo{width:25%;float:left;}
+.logo img{width:100%;}
+.menu1{width:55%; float:left; text-align:center;}
+.menu1 ul{padding-left:50px; margin:0px;}
+.menu1 ul li{list-style:none; display:inline-block;margin-top:20px; padding-right:45px;font-size:20px; color:black; font-weight:bold;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.icon{width:20%;float:left;}
+.icon ul{padding:0px; margin:0px; text-align: right;}
+.icon ul li{display:inline-block;margin-top:20px;}
+.icon ul li img{width:30px; margin-right:4px;}
+/* .banner{width:100%;float:left;} 
+.banner img{width:100%;height: 600px;}  */
+.banner{width:100%;;float:left;padding:60px 0px;background:url(../images/banner1.jpg) left top no-repeat ;background-size: cover;height: 400px;}
+.banner h4{width:50%;text-align:center;color:rgb(235, 226, 226);font-size:35px;font-weight: bold;margin-bottom:5px;margin-top:10px;}
+.banner h5{width:50%;text-align:center;color:rgb(250, 246, 246);font-size:55px;font-weight: bold;margin-bottom:5px;margin-top:10px;}
+.banner p{width:50%;text-align:center;color:rgb(241, 237, 237);font-size:25px;margin-top:5px;margin-bottom:5px;}
+
+
+.page1{width:100%; float:left; height: 632px; background:rgb(247, 244, 238);}
+.woman{width:48%; float:left; padding:50px 0 0 60px;}
+.woman img{width:90%; height: 400px; margin-top: 58px; margin-bottom: 100px; margin-left:12px;}
+.text1{width:40%; float: right; text-align:left; padding-right:60px; padding-top: 85px;}
+.text1 h1{text-transform: uppercase; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight:1000;} 
+.text1 p{font-size:14px;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; line-height:24px;font-weight: 400; letter-spacing: 0.2px;}
+.text1 a{ color: rgb(6, 208, 97); font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size:13px; letter-spacing: 0.3px; text-decoration:none; border-bottom: solid 1px;}
+
+.program_main{width:100%; float:left;  background-color: aliceblue; padding-top:40px; padding-bottom:10px;}
+.program_main h1{text-align:center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-transform: uppercase; font-weight:900;}
+.program_main p{text-align: center; padding-left:80px; padding-right:80px; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; line-height:24px; font-size:16px; font-weight: 450; letter-spacing: 0.2px;}
+.programs{width:100%; float:left; padding-left:20px; padding-right:20px;}
+.program1{width:45%; float:left; margin-left:10px;border:solid 1px black; padding:13px;}
+.program1 img{width:90%; float:left; height:300px; margin-bottom: 19px;padding:30px;}
+.program1 h4{text-transform: uppercase; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight:900; text-align:left; margin-top:90px;}
+.program1 p{text-align:left; padding:0;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size:14px; font-weight: 400; letter-spacing: 0.2px;}
+.program1 a{ color: rgb(6, 208, 97); font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size:13px;  letter-spacing: 0.3px; text-decoration:none; border-bottom: solid 1px;}
+
+.resource_{ width: 100%; float: left;background-color: rgb(231, 223, 223);}
+.resouce_main{width: 100px;float: left;display: contents; }
+.resource_box1{ width: 50%; float: left; text-align: left;}
+.resource_box1 h1{width: 100%; float: left; margin-bottom: 0px;}
+.resource_box1 p{width: 100%; float: left;}
+.resource_box1 h3{width: 100%;float: left; margin-bottom: 0px; font-size: 18px; font-weight: bold;}
+.resource_box2{width: 50%; float: left;}
+.resource_box2 img{width:100%;  object-fit: cover; padding-left:39px; padding-top:10px; padding-bottom:0; padding-right:0; height:560px; margin-bottom:0;}
+
+.computer{width:100%; float:left; height: 632px; background:rgb(247, 244, 238);}
+.student{width:48%; float:left; padding:50px 0 0 60px;}
+.student img{width:90%; height: 400px; margin-top: 58px; margin-bottom: 100px; margin-left:12px;}
+.text1{width:40%; float: right; text-align:left; padding-right:60px; padding-top: 85px;}
+.text1 h1{text-transform: uppercase; ; font-weight:900;}
+.text1 p{line-height:24px; font-size:14px; font-weight: 400; letter-spacing: 0.2px;}
+.text1 a{ color: rgb(6, 208, 97); font-size:13px; letter-spacing: 0.3px;}
+
+
+.top-stories {width:100%; float:left; margin: 30px auto;}
+.top-stories h2 {font-size: 25px; font-weight: bold; margin-bottom: 15px; }
+.stories-container { display: flex; gap: 20px; flex-wrap: wrap;}
+.story {flex: 1; min-width: 250px; background: pink; text-align:  center;}
+.story img {width: 100%; height: 200px; object-fit: cover; border-radius: 4px;}
+.story p {font-size: 14px; margin: 10px;  font-size: 14px;}
+.more-stories {display: inline-block; margin-top: 10px; text-decoration: none; color: green; font-size: 14px; float:left;border-bottom: solid 1px;}
+
+.contact_main{width:100%;;float:left;padding:60px 0px;background:url(../images/banner1.jpg) left top no-repeat ;background-size: cover;height: 400px;}
+.contact_main h5{font-size:30px;text-align:center;color:rgb(147, 71, 23);font-size:45px;font-weight: bold;margin-bottom:5px;margin-top:10px;}
+.contact_box_main{width:100%;float:left;margin-top:45px;}
+.contact_box1{width:60%;float:left;border-width:1px;margin-bottom: 35px;}
+.contact_box2{width:40%;float:left;}
+.contact_box2 ul{float:right;width:50%;}
+.contact_box2 ul li{font-size:30px;text-align: center;list-style:none;color:white;width:auto;}
+.input1{width:80%;float:left;height: 60px;border-radius: 15px;padding-left:10px;margin-bottom:15px; margin-left:10px;background-color: white;}
+.sent_button{width:100%;float:left;text-align:center;margin-top: 5px;}
+.message_button{background:rgb(225, 233, 224);color:black;padding:20px 40px;border-radius: 10px;font-weight:bold;font-size: 16px;}
+.message_button:hover{background:rgb(114, 68, 34);color:white;}
+
+.footer_main{ width: 100%; float: left; background: #8f8b8b; padding: 60px 0;}
+.footer_logo{ width: 20%; float: left;}
+.footer_logo img{ width: 80%;}
+.link_main{ width: 20%; float: left;}
+.link_main h4 {
+    color: #f3e2e2;
+    font-size: 22px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+.link_main ul { padding: 0; margin: 0;}
+.link_main ul li {
+    color: #fff;
+    font-size: 16px;
+    list-style: none;
+    line-height: 30px;
+}
+.box {
+    border: solid 1px black;
+    width: 85%;
+    float: left;
+    padding: 0 15px;
+    margin-bottom:10px;
+}
+.news h4{font-size:22px;color:#fff; }
+.news ul li {color:white;font-size:26px;list-style:none;line-height: 30px;float:left;display:inline-block;padding:5px;}
+.news ul li img{width:30px;padding: 5px;}
+
+
+
+
+
+
