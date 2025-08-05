@@ -1,0 +1,10 @@
+body{padding:0px;margin:0 auto;}
+.login_page {background-image: url('../images/background.jpg');background-size: cover;background-repeat: no-repeat;height:600px;}
+.center{width:100%;float:left;border-radius: 25px;text-align:center;}
+.profile img{width:100ppx;height: 100px;border-radius: 50%;border:3px solid rgb(245, 241, 241);margin-bottom:5px;margin-top: 50px;}
+.login_input{float: left;width:300px;text-align: center;padding-left: 480px;}
+.login_input h4{font-size: 30px;color:rgb(227, 219, 219);margin-bottom:15px;}
+.input1{padding:12px;border-radius: 20px;font-size: 16px;border:none;margin:10px 0px;}
+.login_btn{width:68%;padding:12px;background-color: aqua;margin-top: 10px;border:none;font-size:16px;font-weight: 600px;border-radius: 20px;}
+.login_btn:hover{background: rgb(242, 242, 110) ;color:rgb(31, 31, 30);}
+.login_input p{font-size:20px;color:white;font-size: 14px;}
